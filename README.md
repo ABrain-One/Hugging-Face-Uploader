@@ -26,5 +26,5 @@ User access token generation with write permission: https://huggingface.co/docs/
 
 Use case:
 ```
-python -m ab.hf.uploader </path/to/my_model> --token <HF_token>
+python -m ab.hf.uploader </path/to/my_model> <HF_username/HF_repo> --token <HF_token>
 ```
