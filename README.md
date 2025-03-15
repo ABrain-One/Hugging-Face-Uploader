@@ -2,7 +2,7 @@
 
 To use this Hugging Face uploader, you’ll need a user access token with write permissions. If you don’t have one, you can easily generate it by following the instructions at https://huggingface.co/docs/hub/en/security-tokens
 
-## Running on Linux without Python and a virtual environment installation
+## Running on Linux without Python and a Virtual Environment
 
 Replace the text inside the angle brackets, including the brackets, with the appropriate strings
 
