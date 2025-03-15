@@ -1,5 +1,13 @@
 # Hugging Face Uploader
 
+## Running on Linux without Python and a virtual environment installation
+
+Replace the text inside the angle brackets, including the brackets, with the appropriate strings
+
+```bash
+   cd uploader
+   ./uploader </path/to/my_model> <HF_username/HF_repo> --token <HF_token>
+   ```
 
 ## Create and Activate a Virtual Environment (recommended)
 For Linux/Mac:
