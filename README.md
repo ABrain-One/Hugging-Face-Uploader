@@ -9,7 +9,7 @@ Replace the text inside the angle brackets, including the brackets, with the app
    ./uploader </path/to/my_model> <HF_username/HF_repo> --token <HF_token>
    ```
 
-## Create and Activate a Virtual Environment (recommended)
+## Create and Activate a Virtual Environment
 For Linux/Mac:
    ```bash
    python3 -m venv .venv
