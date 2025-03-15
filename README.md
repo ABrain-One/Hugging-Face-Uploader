@@ -1,4 +1,4 @@
-# Hugging-Face-Uploader
+# Hugging Face Uploader
 
 
 ## Create and Activate a Virtual Environment (recommended)
